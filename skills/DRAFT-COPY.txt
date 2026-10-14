@@ -1,0 +1,10 @@
+【草稿副本说明】
+
+本目录 skills/character-creator/ 与 skills/performance-coach/
+是从本机 agent-data/workflows/ 整份复制的发布预览副本。
+
+- 用途：开源打包骨架待命，非正式 Release 制品。
+- 禁止：把此说明当作可改 skill 正文的授权；未确认前勿改 SKILL.md。
+- 正式发布前：再扫敏感信息，并由维护者确认合仓或拆仓。
+
+复制时间语境：2026-10-13（Asia/Shanghai）

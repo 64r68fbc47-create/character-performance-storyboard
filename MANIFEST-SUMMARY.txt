@@ -1,0 +1,6 @@
+骨架路径: /workspace/character-performance-storyboard/
+根文件: README.md LICENSE INSTALL.md RELEASE-CHECKLIST.md FILE-MANIFEST.md CHANGELOG.md MANIFEST-SUMMARY.txt + examples/ + skills/
+skill 文件: character-creator 5；performance-coach 12；合计 17 md（另 skills/DRAFT-COPY.txt）；骨架总文件 26；均非空
+源 workflows 未改；skills/ 与源 diff 一致（草稿副本）
+开源前注意: skill 正文无私人邮箱/token；FILE-MANIFEST/INSTALL 已改为 <agent-data> 占位符（2026-10-14）；联系邮箱仅文档约定 526006733@qq.com
+待用户确认: ①先开哪套或合仓 ②GitHub 仓 character-performance-storyboard 是否已建 ③是否打 v0.1.0
