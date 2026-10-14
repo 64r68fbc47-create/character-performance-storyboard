@@ -5,7 +5,7 @@
 ## 文档与许可
 
 - [ ] README 一句话、两 skill 说明、安装、联动、触发语已更新  
-- [ ] LICENSE 为 MIT；版权行 `Copyright (c) 2026 感原林`  
+- [ ] LICENSE 为 MIT；版权行 `Copyright (c) 2026 原`  
 - [ ] INSTALL.md 路径与复制命令可粘贴即用  
 - [ ] examples/README.md 指向真实 references demo  
 - [ ] FILE-MANIFEST.md 与仓库树一致  
@@ -40,7 +40,7 @@
 见仓库 INSTALL.md：将 `skills/*` 复制到本机 `agent-data/workflows/`。
 
 ### 许可
-MIT © 2026 感原林
+MIT © 2026 原
 
 ### 说明
 本版为可安装预览包。产品方向与拆仓与否以维护者后续说明为准。
@@ -51,3 +51,25 @@ MIT © 2026 感原林
 - [ ] README 徽章 / 链接可用  
 - [ ] 用干净环境按 INSTALL 装一遍冒烟  
 - [ ] 收集 Issue：安装路径、触发语、模型适配
+
+## GitHub Topics 备选（定稿推仓时勾）
+
+英文 Topics（仓库 Settings → Topics，约 8～12 个）：
+
+- `ai-video`
+- `kling`
+- `jimeng`
+- `hailuo`
+- `storyboard`
+- `character`
+- `prompt`
+- `performance`
+- `cursor-skills`（若平台认）
+- `agent-skills`
+
+README / 仓库描述里留给中文检索的词（不必全当 Topic）：
+
+- 人物档案、表演分镜、可灵、即梦、海螺、AI 视频分镜
+
+描述草案（About 一行）：`人物档案 + 表演向分镜 Skill：可灵 / 即梦 / 海螺可复制 Prompt`
+
