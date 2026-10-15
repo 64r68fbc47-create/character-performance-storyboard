@@ -10,6 +10,8 @@
 
 ## [0.1.0] — 草稿（未打 tag；内容已在 GitHub main）
 
+- Released v0.1.0
+
 ### Added
 
 - 公开仓：https://github.com/64r68fbc47-create/character-performance-storyboard （public，`main`）
