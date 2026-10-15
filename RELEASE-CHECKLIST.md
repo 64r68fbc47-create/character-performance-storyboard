@@ -5,7 +5,7 @@
 ## 文档与许可
 
 - [ ] README 一句话、两 skill 说明、安装、联动、触发语已更新  
-- [ ] LICENSE 为 MIT；版权行 `Copyright (c) 2026 原`  
+- [x] LICENSE 为 MIT；版权行 `Copyright (c) 2026 原`  
 - [ ] INSTALL.md 路径与复制命令可粘贴即用  
 - [ ] examples/README.md 指向真实 references demo  
 - [ ] FILE-MANIFEST.md 与仓库树一致  
@@ -21,7 +21,7 @@
 ## 版本与 GitHub
 
 - [ ] 确认：合仓发布 **或** 先开哪一套（用户拍板）  
-- [ ] GitHub 仓库已建：`character-performance-storyboard`  
+- [x] GitHub 仓库已建：`character-performance-storyboard`  
 - [ ] 默认分支、Description、Topics（如 `cursor-skill` `ai-video` `storyboard`）  
 - [ ] 打 tag，例如 `v0.1.0`  
 - [ ] 首条 Release notes 已写（可用下方模板）
