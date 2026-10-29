@@ -1,7 +1,7 @@
 骨架路径: /workspace/character-performance-storyboard/
 根文件: README.md LICENSE INSTALL.md RELEASE-CHECKLIST.md FILE-MANIFEST.md CHANGELOG.md MANIFEST-SUMMARY.txt + docs/卖点详解.md + examples/ + skills/
-skill 文件: character-creator 5；performance-coach 12；合计 17 md（另 skills/DRAFT-COPY.txt）
-源 workflows 未改；skills/ 与 GitHub main 一致（2026-10-14 核验）
-公开仓已建: https://github.com/64r68fbc47-create/character-performance-storyboard （public，无 tag/Release）
+skill 文件: character-creator 5；performance-coach 12；合计 17 md（另 skills/DRAFT-COPY.txt，历史标记）
+2026-10-29：skills 改为本机完整版。performance-coach/SKILL.md 含模块6，禁止用 bot 精简版（模块1–4）覆盖。
+公开仓已建: https://github.com/64r68fbc47-create/character-performance-storyboard （public；既有 tag v0.1.0）
 联系邮箱仅文档约定: 526006733@qq.com；版权: 感原林
-待用户确认: ①是否把本机新 README + docs/卖点详解 同步上仓 ②是否打 v0.1.0
+2026-10-29：完整版 skill 已写入本仓。不要再用精简版覆盖，也不要等「是否同步」——这一步已经做了。

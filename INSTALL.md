@@ -2,7 +2,7 @@
 
 把本仓库 `skills/` 下两套 skill **整目录复制**到 Cursor / Grok Bot 的 workflows（或等价 skill）目录。
 
-> `skills/` 是发布骨架里的**草稿副本**。正式环境若已有同名目录，先备份再覆盖。
+> `skills/` 是本机**完整版**（performance-coach 含模块6；character-creator 与模块6对齐）。正式环境若已有同名目录，先备份再覆盖。若本机 bot 里仍是约 39KB、只有模块1–4 的精简版，用本仓库覆盖 bot，**不要**反过来用精简版覆盖本仓库。
 
 ## 要复制的路径
 
@@ -45,4 +45,5 @@ rsync -a --delete skills/performance-coach/ <agent-data>/workflows/performance-c
 ## 不改什么
 
 - 不要手改 `SKILL.md` 正文 unless 你明确要二次开发。  
-- 本仓库草稿与正式 workflows 源目录请分开管理，避免把本地私密路径写回开源副本。
+- 不要用 bot 现装精简版（模块1–4）盖回本仓库。准本是本机完整版。  
+- 避免把本地私密路径写回开源副本。
