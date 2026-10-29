@@ -1,3 +1,13 @@
+【2026-10-29 起作废】
+
+本文件不再表示当前准本。
+`skills/performance-coach/` 与 `skills/character-creator/` 已换为本机完整版。
+performance-coach 含模块6（角色文档读写与关系演进）以及模块5/7。
+character-creator 与模块6文档格式对齐。
+禁止用 bot 现装精简版（约 39KB，只有模块1–4）覆盖。
+
+以下是 2026-10-13 的旧说明，只留作历史，不要照做：
+
 【草稿副本说明】
 
 本目录 skills/character-creator/ 与 skills/performance-coach/
